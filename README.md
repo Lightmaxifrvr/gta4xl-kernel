@@ -1,3 +1,1 @@
-# gta4xl-kernel
-# gta4xl-kernel
-# gta4xl-kernel
+Kernel for le Galaxy Tab S6 Lite [Exynos] EU
